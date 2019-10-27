@@ -1,0 +1,22 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Emmy Zhai"
+theme = "dream"
+
+[params]
+  author = "g1eny0ung"
+  description = "g1eny0ung的生活记录～"
+  avatar = "/me/yy.jpg"
+  motto = "In My Head."
+  
+  email = "g1enyy0ung@gmail.com"
+  github = "g1eny0ung"
+  codepen = "g1eny0ung"
+  st
+
+  paginate = 4
+  siteStartYear = 2016
+
+  favicon = "/favicon.ico"
+
+  lightMode = true

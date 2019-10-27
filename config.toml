@@ -1,0 +1,23 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Emmy Zhai"
+theme = "dream"
+
+[params]
+  author = "Emmy"
+  description = "the space of emmy zhai"
+  avatar = "/me/Agirl.png"
+  motto = "I am alienly cool..."
+  
+  email = "emmyzhai@gmail.com"
+  github = "emmyzhai"
+  linkedin = ""
+  codepen = ""
+  stackoverflow = ""
+
+  paginate = 8
+  siteStartYear = 2019
+
+  favicon = "/favicon.ico"
+
+  lightMode = true
