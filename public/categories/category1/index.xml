@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emmy Zhai</title>
-    <link>/</link>
-    <description>Recent content on Emmy Zhai</description>
+    <title>category1 on Emmy Zhai</title>
+    <link>/categories/category1/</link>
+    <description>Recent content in category1 on Emmy Zhai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2019 04:45:47 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/category1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -39,15 +39,6 @@ Cut out summary from your post content here.&lt;/p&gt;</description>
       <guid>/post/piano/</guid>
       <description>&lt;p&gt;TODO
 Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>I am Emmy</title>
-      <link>/post/emmy/</link>
-      <pubDate>Sun, 27 Oct 2019 01:53:35 +0000</pubDate>
-      
-      <guid>/post/emmy/</guid>
-      <description>&lt;p&gt;I am Emmy&lt;/p&gt;</description>
     </item>
     
   </channel>

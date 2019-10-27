@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Emmy Zhai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Oct 2019 01:53:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2019 04:45:47 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tag1</title>
+      <link>/tags/tag1/</link>
+      <pubDate>Sun, 27 Oct 2019 04:45:47 +0000</pubDate>
+      
+      <guid>/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>/tags/tag2/</link>
+      <pubDate>Sun, 27 Oct 2019 04:45:47 +0000</pubDate>
+      
+      <guid>/tags/tag2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>emmy</title>
