@@ -4,14 +4,37 @@
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2019-10-27T01:53:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/emmy/</loc>
+    <lastmod>2019-10-27T01:53:35+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-10-27T01:53:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/emmy/</loc>
+    <lastmod>2019-10-27T01:53:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-10-27T01:53:35+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2019-10-27T01:53:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/who-am-i/</loc>
+    <lastmod>2019-10-27T01:53:35+00:00</lastmod>
   </url>
   
 </urlset>

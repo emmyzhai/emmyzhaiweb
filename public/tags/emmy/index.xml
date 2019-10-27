@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emmy Zhai</title>
-    <link>/</link>
-    <description>Recent content on Emmy Zhai</description>
+    <title>emmy on Emmy Zhai</title>
+    <link>/tags/emmy/</link>
+    <description>Recent content in emmy on Emmy Zhai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Oct 2019 01:53:35 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/emmy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
